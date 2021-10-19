@@ -1,3 +1,0 @@
-Jugador  Puntos
-1        0
-2        5
